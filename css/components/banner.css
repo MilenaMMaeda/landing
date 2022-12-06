@@ -1,0 +1,33 @@
+.banner {
+  background-image: url('../../images/background.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 200px 0;
+  color: #000000;
+}
+
+.container {
+  width: 900px;
+  margin: auto;
+  color: #ffffff;
+}
+
+.container p {
+  color: #b2b3b2;
+  font-size: 20px;
+}
+
+.btn-apply {
+  display: inline-block;
+  color: white;
+  background-color: #1edd88;
+  padding: 16px 36px;
+  border-radius: 50px;
+}
+
+.container h2 {
+  color: #000000;
+  text-align: center;
+}
+
